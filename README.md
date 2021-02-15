@@ -1,5 +1,5 @@
 # Surviving-the-Titanic
-A Machine Learning Model
+**A Machine Learning Model**
 
 This Notebook contains a practical use case for predictive analysis which involves:
 
